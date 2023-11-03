@@ -28,7 +28,7 @@ To set up the Discord AI Bot, follow these steps:
    ```
 2. Navigate to the project directory:
    ```sh
-   cd discord-ai-bot
+   cd Discord_BotAI
    ```
 3. Install the necessary packages:
    ```sh
