@@ -75,14 +75,6 @@ The bot's functionality is divided into several scripts:
 - `config.js`: A module exporting the configuration settings.
 - `commands.js`: Contains the implementation of bot commands.
 
-## Contributing
-
-Contributions to the Discord AI Bot are welcome. Please adhere to this project's `code of conduct` when contributing.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - OpenAI for providing the API for conversational AI.
