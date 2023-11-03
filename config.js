@@ -21,7 +21,7 @@ if (!userSettings || !userSettings.discord_bot_token || !userSettings.gpt_api_to
 exports.default = {
     prefix: userSettings?.prefix || '$',
     token: userSettings.discord_bot_token, // Bot token
-    apiKey: userSettings.gpt_api_token, // GPT token
+    apiKey: userSettings.gpt_api_token, // GPT API token
     intents: [
         discord_js_1.Intents.FLAGS.GUILDS,
         discord_js_1.Intents.FLAGS.GUILD_MESSAGES,
